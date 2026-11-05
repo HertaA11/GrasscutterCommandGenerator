@@ -1127,6 +1127,24 @@
 81730:As My Vision Freezes into Form - Atop the lighthouse, approach the girl's phantom manifested as a statue.
 81731:Drunk as Charged - You can always wake someone who's truly drunk.
 81732:Winter Night's Letter - Complete "Secret Tsarist Assignment: Part I."
+81733:Las Palabras Andantes - Record tales of times gone by from eastern Snezhnaya in your Field Notes.
+81734:A Crack Rings Through the Kristall - Record the full story of the events in Novokitezhgrad in your Field Notes.
+81735:Gold Miner - Destroy a rock surrounding a Kristall deposit for the first time.
+81736:Putting Holes in the Planet - Destroy a truly staggering number of rocks surrounding Kristall deposits.
+81738:Mjollnir? - Hurl a Prime Ice Construct: Pickaxe to smash a distant rock.
+81739:Who Needs a Magic Wand...? - Take control of a Rapid-Fire Autocannon for the first time.
+81740:Two Heroes of the Old City - Defeat the two corrupted guardians of Old Kitezhgrad.
+81741:A Faded Shadow in the Ice - Perhaps the way everything was reshaped had a prototype all along...
+81742:The Legendary Commute - Make your way through downtown Novokitezhgrad at breakneck speed.
+81743:Tales of Pearls Beneath the Dust - Sell every consignment item unearthed during your excavations...
+81744:No Secrets Left in Shadow - Discover and illuminate every secret message left behind by the ancient fae.
+81745:Where Kristall Runs Like Water - Reach Novokitezhgrad, the metropolis of fae and Kristall.
+81746:So the Waters Were Healed Unto This Day - Restore the underground water supply beneath Novokitezhgrad.
+81747:Virtua Cop...? - Escape the Shadow Realm aboard a minecart.
+81749:As Calamity Melts Away Like Black Snow - Purge the Blightkristall from both rifts across the icefield.
+81753:The Hall Where Death Is Mirrored - Reach the depths beneath the fallen bones of the great beast, within the wing-shaped peaks.
+81755:The Envoy Has Arrived - Complete "Secret Tsarist Assignment: Part II."
+81756:When the Iron Tree Blooms - Help the crystal tree grow in a place where sunlight never reaches.
 82001:Nothing Special, Just Practice - Hit a falcon mid-flight with your bow.
 82002:Master Sniper - Strike an opponent's weak point from afar with an Aimed Shot.
 82003:Der Freischütz - Strike an opponent's weak point from extremely far away with an Aimed Shot.
@@ -1424,6 +1442,7 @@
 82310:Hold... Hold... Now! - Interrupt an Immortal Construct's attack by breaking its HP Shield while it's in the Lifeflare state.
 82311:Winged Lion Down - Knock the Chimeric Winged Lion out of the sky by destroying all Anemo Orbs while it is in the Galeforce state.
 82312:"Passion Ablaze" - Break Guardian Blade of Drifting Snow's "Ice Coffin" using only Pyro attacks.
+82313:While the Drink Is Still Warm... - Defeat the Wavebinder while it is in its Valiant state...
 84000:The End of the Beginning - Complete the Mondstadt Archon Quests.
 84001:The Outlander Who Caught the Wind - Complete "The Outlander Who Caught the Wind."
 84002:For a Tomorrow Without Tears - Complete "For a Tomorrow Without Tears."
@@ -1626,6 +1645,15 @@
 84404:Tea for Four - Enjoy a rare moment of relaxation before the decisive battle begins...
 84405:And With the End, Destruction - Defeat Ronova, the "Ruler of Death."
 84406:A Rekviem for the Underworld - Complete "A Rekviem for the Underworld."
+84407:Dies Irae - Investigate the disturbances caused by the Nail of Retribution
+84408:The Reason for Being Here - Obtain the necessary information from the "Variable-Response Query Terminal."
+84409:Hour of Ruin - Complete the "Hour of Ruin."
+84410:The Breeze That Blows Toward Freedom - Complete the "Trial of Usurpation" on the subject of "Freedom."
+84411:The Will That Sustains Eternity - Complete the "Trial of Usurpation" on the subject of "Eternity."
+84412:"Wisdom" Has No Answer - Complete the "Trial of Usurpation" on the subject of "Wisdom."
+84413:A Treasure Forged by Victory - Complete the "Trial of Usurpation" on the subject of "War."
+84414:A Curse Not Born of Love - Complete the "Trial of Usurpation" on the subject of "Love."
+84415:A Yesterday Sent From Beyond - Complete "A Yesterday Sent From Beyond."
 84501:...Odomu? - Successfully conduct cultural exchange with the hilichurls in "Language Exchange."
 84502:Yo dala? - Successfully conduct cultural exchange with the hilichurls in "Poetry Exchange."
 84503:Perfectionist - Complete all of Tsarevich's commissions flawlessly in "Reliable Helper."
@@ -1853,3 +1881,30 @@
 86085:Independent Ignorance - Defeat Il Dottore in Co-Op Mode.
 86086:Immortality Severed - Defeat an Immortal Construct in Co-Op Mode.
 86087:Endless Vitality - Defeat a Chimeric Winged Lion in Co-Op Mode.
+86092:Continental Explorer: Snow Blanketed Nation (II) - Light up the maps of Novokitezhgrad and Wingspan Peak in Snezhnaya.
+86093:Across the Icebound Snowscape (II) - Unlock all Teleport Waypoints in Novokitezhgrad and Wingspan Peak within the Snezhnaya region.
+86094:Sanctuary Pilgrim: Snow Blanketed Nation (II) - Unlock all the Shrines of Depths in the following areas in Snezhnaya: Novokitezhgrad and Wingspan Peak.
+86095:Bounty of the Shadow Realm: Snow Blanketed Nation (II) - Unlock all Shadow Realm treasure vaults in Novokitezhgrad and Wingspan Peak in the Snezhnaya region.
+86096:The Tundra Will Guide You Home (II) - Follow {param0} Seelie in Novokitezhgrad and Wingspan Peak to their Seelie Courts.
+86097:The Tundra Will Guide You Home (II) - Follow {param0} Seelie in Novokitezhgrad and Wingspan Peak to their Seelie Courts.
+86098:The Tundra Will Guide You Home (II) - Follow {param0} Seelie in Novokitezhgrad and Wingspan Peak to their Seelie Courts.
+86099:Glacial Treasure Hunter (II) - Open {param0} chests in Novokitezhgrad and Wingspan Peak.
+86100:Glacial Treasure Hunter (II) - Open {param0} chests in Novokitezhgrad and Wingspan Peak.
+86101:Glacial Treasure Hunter (II) - Open {param0} chests in Novokitezhgrad and Wingspan Peak.
+86102:Chillwinter Adventurer (II) - Complete {param0} Open World Time Trial Challenges in Novokitezhgrad and Wingspan Peak.
+86103:Chillwinter Adventurer (II) - Complete {param0} Open World Time Trial Challenges in Novokitezhgrad and Wingspan Peak.
+86104:Chillwinter Adventurer (II) - Complete {param0} Open World Time Trial Challenges in Novokitezhgrad and Wingspan Peak.
+86105:We Shall Not Rise Again, Nor See Each Other - Witness the end of Grand Duke Alvis of the Domovoy and his daughter Thrud.
+86106:The Kantharos Runs Deep - Reach maximum Construction Level at the "Meeting Point: Teplo Oasis."
+86107:Echoes in Black - Reach maximum Construction Level at the "Meeting Point: Royal Railway Transport Bureau."
+86108:Sosruko Here! - Obtain the shotgun "Sosruko's Flame."
+86109:Might I Suggest This One? - Obtain the shotgun "Apsat's Mountain Hunt."
+86110:Urban Combat Specialist - Obtain at least 1 Edge of Survival Medal in each of "Hammer and Anvil," "Harbor Under Heavy Guard," and "The Calamity-Torn Old City" in "Edge of Survival."
+86111:Kurdalagon's Breath - Install 4 accessories on "Sosruko's Flame."
+86112:Super Shotgun - Install 4 accessories on "Apsat's Mountain Hunt."
+86113:Rip and Tear, Until It Is Done - Fire 10 consecutive shots within 15 seconds using "Sosruko's Flame."
+86114:Though He Was No Giant... - Hit an enemy over 30 meters away using a Heavy Slug from "Apsat's Mountain Hunt."
+86115:The Pied Piper - Ya-ho. Ya-ho. Ya-ho. Ya-ho...
+86116:Mimir's Well - Take whatever you desire, so long as you can pay the price...
+86117:The King of Roshambo - Claim the final victory in a game of rock-paper-scissors.
+86118:What Was Found, Returned - Return to each person what rightfully belongs to them.

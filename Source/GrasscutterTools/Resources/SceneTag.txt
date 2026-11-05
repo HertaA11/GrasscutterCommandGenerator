@@ -570,11 +570,39 @@
 1972:LoliFriend
 1973:Combine_Loli
 1974:BigWorld_-3_-5_Grass_LoliFriend
+1977:Bingyuan_03 (Default)
+1978:Bingyuan_02
+1979:Bingyuan_01
+1980:LG_01 (Default)
+1981:LG_END
+1982:LG_WQ_END
+1983:FatuiHarborD (Default)
+1984:FatuiHarborS
+1985:Oasis1 (Default)
+1986:Oasis2
+1987:Oasis3
+1988:DXH_01 (Default)
+1989:DXH_02
+1993:DSN_01 (Default)
+1994:Shotgun01
+1995:XJJC_01 (Default)
+1996:XJJC_02
+1997:XJJC_03
+1998:XJJC_04
+2000:CrystalPalace1 (Default)
+2001:CrystalPalace2
+2002:CrystalPalace3
+2003:CrystalPalace4 (Default)
+2004:Snowveil_02
+2005:Snowveil_03
 2006:XNG_BF (Default)
 2007:XNG_DR
 2008:XNG_AF
+2011:LLDK_Crystal (Default)
 2012:SN_YHS_BF (Default)
 2013:SN_YHS_AF
+2020:LLDK_Before (Default)
+2021:LLDK_After
 2022:SN_QXGF1 (Default)
 2023:SN_QXGF2
 2024:SN_QXGF3
@@ -634,6 +662,28 @@
 2139:VineManRun
 2142:SN_SRC_1 (Default)
 2143:SLT
+2144:SJKQ_01 (Default)
+2145:SJKQ_02
+2146:KQYY_KCZ_01 (Default)
+2147:KQYY_KCZ_02
+2150:WindRoad_01 (Default)
+2151:WindRoad_02
+2152:Snowveil_Ice (Default)
+2155:DXH_BaseGrass
+2160:Snowveil_01 (Default)
+2165:MirrorBF (Default)
+2166:MirrorAF
+2169:DigV2
+2185:TD72 (Default)
+2186:TD73
+2187:TDBF
+2191:SLT72
+2192:FatuiHarborSB (Default)
+2193:SLT72_Std
+2194:SLT72_Quest
+2195:SLT72_Act
+2200:Combine_STH01
+2210:Bingyuan_00
 // 4
 106:SummerTime
 108:SummerTime_High
@@ -1264,6 +1314,10 @@
 1970:ST_YYLC_1 (Default)
 // 51332
 1971:ST_YYLC_2 (Default)
+// 1164
+1990:XJJC_PD_01 (Default)
+1991:XJJC_PD_02
+1992:XJJC_PD_03
 // 51302
 2009:XNG_DR (Default)
 2132:YYGS_HD (Default)
@@ -1289,6 +1343,58 @@
 2136:YYHN_HD (Default)
 // 51304
 2137:YYBSH_HD (Default)
+// 20378
+2148:KZSD_AQ01
+2156:KZSD_AQ01
 // 20373
 2149:Vault_Boss_01 (Default)
 2154:Vault_Boss_02
+// 51350
+2162:FatuiHarborH (Default)
+// 51349
+2167:XJJCMercenaries (Default)
+// 51351
+2168:JCMercenaries (Default)
+// 20374
+2170:STH_01 (Default)
+2225:XM_AruAQ_Af (Default)
+2236:SLT
+2237:SLT72 (Default)
+2238:SLT72_Std (Default)
+2239:SLT72_Quest (Default)
+2240:SLT72_Act
+// 20376
+2189:ZDG_AQ01 (Default)
+2190:ZDG_AQ02
+2208:Combine_ZDG_AQ01
+2209:Combine_ZDG_AQ02
+// 48131
+2256:SLT
+2257:SLT72 (Default)
+// 48132
+2258:SLT
+2259:SLT72 (Default)
+// 48133
+2260:SLT
+2261:SLT72 (Default)
+// 48134
+2262:SLT
+2263:SLT72 (Default)
+// 51366
+2264:SLT
+2265:SLT72 (Default)
+// 51369
+2266:SLT
+2267:SLT72 (Default)
+// 51373
+2268:SLT
+2269:SLT72 (Default)
+// 51374
+2270:SLT
+2271:SLT72 (Default)
+// 51375
+2272:SLT
+2273:SLT72 (Default)
+// 51376
+2274:SLT
+2275:SLT72 (Default)

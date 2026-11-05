@@ -1020,6 +1020,32 @@
 7092:Zd70_MainView_ColdLevel_3
 7095:Zd70_JMXS_BDZL
 7096:Zd70_General
+7201:Zd72_General
+7202:Zd72_XJJC
+7203:Zd72_JG
+7204:Zd72_SJKQ
+7205:Zd72_DXH_Before
+7206:Zd72_HAFZ
+7207:Zd72_GK_JD
+7208:Zd72_GK
+7209:Zd72_ZEBY
+7210:Zd72_JTF
+7211:Zd72_DFZL
+7212:Zd72_JC
+7213:Zd72_JC
+7214:Zd72_General
+7215:Zd72_XLZ
+7216:Zd72_GK
+7217:Zd72_XJJC_IN
+7218:Zd72_KQYY01
+7219:Zd72_ZEBY_YY
+7220:Zd72_DXH_After
+7221:Zd72_ColdLevel_4
+7222:Zd72_JC
+7223:Zd72_JC
+7224:Zd72_JC
+7225:Zd72_GKYY
+7238:Zd72_JTF_ZB
 7101:Zd70_JMXS_40Boss
 // 4
 2144:LP_General
@@ -1785,8 +1811,28 @@
 10534:Du71_ZD_Vault_01_SZY_An
 10535:Du71_ZD_Vault_01_SZY_Liang
 10543:Du71_ZD_Vault_01_Boss_02
+// 20374
+10556:Ly_72JiXiang
+7226:Dq_QinglaiIsland_Thunder_1st_STL72
+7237:Dq_QinglaiIsland_BossArea
+7239:Md_SnowMountain_Peak
+7240:Ly44_LXS_Fog
+7241:Xm31_CWSM_General
 // 20375
 10536:Zd70_ZDB_Inside
+// 20378
+7234:Md65_KZSD_1st
+// 20381
+7235:Nt_General
+7236:Nt_General
+// 20385
+7227:Du72_DreamTrial_StormDesert
+7228:Du72_DreamTrial_StormDesert_Foggy
+7229:Du72_DreamTrial
+7230:GrassDragonBoss01
+7231:Du72_DreamTrial_ScaramoucheBoss
+7232:Du72_DreamTrial_FallenSpace_01
+7233:Du72_DreamTrial_FallenSpace_02
 // 35800
 10009:CycleDungeon_WindFlower
 10010:CycleDungeon_WindFlower_Outdoor
@@ -2204,3 +2250,21 @@
 7018:Du70_Zd_YY
 // 51332
 7094:Du70_Zd_YY
+// 51366
+10545:NDKL_YT_General
+// 51367
+10544:Nt_General
+// 51368
+10539:Md_General
+10540:Md_General
+// 51369
+10541:Dq_City_General
+10542:Dq_HeGuan_Foggy_WanFa
+// 51373
+10546:NDKL_YT_General
+// 51374
+10547:NDKL_YT_General
+// 51375
+10548:Nt55_VolcanicEruption
+// 51376
+10549:Zd70_YKZ

@@ -99,6 +99,8 @@
 1161:IndoorScene_Fd_Aquarium
 1162:IndoorScene_Zd_ZDG
 1163:IndoorScene_Zd_BGYH
+1164:IndoorScene_Zd_JCJ
+1165:ChurchLobby
 1200:IndoorScene_Nt_Msl
 1201:IndoorScene_Nt_XTLLHome
 1202:IndoorScene_Dq_Yushi
@@ -132,6 +134,7 @@
 2417:Hall_Private_Xrht
 2418:Hall_Private_Msqy
 2419:Hall_Private_Xymj
+2420:Hall_Private_Gjmy
 2601:Hall_Private_Witch
 2602:Hall_Private_World_Park
 2611:Hall_Private_Wsqh
@@ -143,6 +146,7 @@
 2617:Hall_Private_Xrht
 2618:Hall_Private_Msqy
 2619:Hall_Private_Xymj
+2620:Hall_Private_Gjmy
 2811:Hall_Public_Wsqh
 2812:Hall_Public_Drxg
 2813:Hall_Public_Wxyc
@@ -152,6 +156,7 @@
 2817:Hall_Public_Xrht
 2818:Hall_Public_Msqy
 2819:Hall_Public_Xymj
+2820:Hall_Public_Gjmy
 20000:關卡玩法測試
 20005:一錘定音的食材
 20006:丘丘人大據點
@@ -444,11 +449,23 @@
 20371:[CHS] - 7.1逐月节轨道镜像（test）
 20372:BigWorld_LevelStreaming
 20373:[CHS] - （test）7.1北国银行保险库地城
+20374:[CHS] - （test）7.2主线镜像大世界
 20375:[CHS] - （test）7.1主线镜像大世界 冬宫
+20376:[CHS] - （test）7.2主线镜像大世界 冬宫
+20378:[CHS] - （test）7.2主线镜像大世界 空之神殿
 20379:[CHS] - 7.1逐月节特效镜像（test）
 20380:[CHS] - 7.1逐月节传统璃月（test）
+20381:[CHS] - （test）7.2主线镜像大世界——火神飙车用
 20382:？？？
 20383:BigWorld_LevelStreaming
+20385:[CHS] - （test）7.2 纳西妲梦境地城
+20389:[CHS] - （test）7.2 天钉内部
+20390:[CHS] - （test）7.2 神之座
+20391:[CHS] - （test）7.2主线镜像大世界 骑士团
+20392:[CHS] - （test）7.2主线镜像大世界 净善宫
+20393:[CHS] - （test）7.2主线镜像大世界 火神办公室
+20403:[CHS] - （test）7.2主线镜像大世界 茜特拉莉家
+20410:[CHS] - （test）7.2主线镜像至冬堡——对话用
 30001:迷霧迷宮
 30002:幽境危戰·普通
 30003:幽境危戰·進階
@@ -776,6 +793,18 @@
 33902:[CHS] - 爬塔（双路）(test)
 33903:[CHS] - 爬塔（双路）(test)
 33904:[CHS] - 爬塔（双路）(test)
+33905:[CHS] - 爬塔（双路）(test)
+33906:[CHS] - 爬塔（双路）(test)
+33907:[CHS] - 爬塔（双路）(test)
+33908:[CHS] - 爬塔（双路）(test)
+33909:[CHS] - 爬塔（双路）(test)
+33910:[CHS] - 爬塔（双路）(test)
+33911:[CHS] - 爬塔（双路）(test)
+33912:[CHS] - 爬塔（双路）(test)
+33913:[CHS] - 爬塔（双路）(test)
+33914:[CHS] - 爬塔（双路）(test)
+33915:[CHS] - 爬塔（双路）(test)
+33916:[CHS] - 爬塔（双路）(test)
 34100:[CHS] - 爬塔第二档-ZHT第1关（单路）(test)
 34101:[CHS] - 爬塔第二档-ZHT第2关（单路）(test)
 34102:[CHS] - 爬塔第二档-ZHT第3关（单路）(test)
@@ -1629,6 +1658,8 @@
 41142:Level_Tower_01_Open
 41143:Level_Tower_01_Open
 41144:Level_Tower_01_Open
+41145:Level_Tower_01_Open
+41146:Level_Tower_01_Open
 42001:去年雙燕來還去：難度3
 42002:解鞍倚枕畫仙橋：難度2
 42003:春水蛾眉各分飛：難度5
@@ -1963,6 +1994,10 @@
 48128:Level_Zd_Combat01
 48129:Level_Zd_Combat01
 48130:[CHS] - （test）7.1 球比伦地城
+48131:BigWorld_LevelStreaming
+48132:BigWorld_LevelStreaming
+48133:BigWorld_LevelStreaming
+48134:BigWorld_LevelStreaming
 49001:[CHS] - 角色专精挑战-琴(test)
 49002:[CHS] - 角色专精挑战-七七(test)
 49003:[CHS] - 角色专精挑战-凝光(test)
@@ -1986,6 +2021,8 @@
 49021:[CHS] - 角色专精挑战-娜维娅(test)
 49022:[CHS] - 角色专精挑战-公子(test)
 49023:[CHS] - 角色专精挑战-魈(test)
+49024:[CHS] - 角色专精挑战-希诺宁(test)
+49025:[CHS] - 角色专精挑战-八重神子(test)
 50002:低溫關卡白盒
 50003:戰鬥性能測試
 50004:電樁電源白盒
@@ -2371,6 +2408,23 @@
 51343:[CHS] - （test）7.1 TPS声望地城
 51344:[CHS] - （test）7.1 TPS声望地城
 51345:[CHS] - （test）7.1 TPS声望地城
+51349:[CHS] - （test)7.2TPS佣兵模式-关卡1
+51350:[CHS] - （test)7.2TPS佣兵模式-关卡2
+51351:[CHS] - （test)7.2TPS佣兵模式-关卡3
+51360:Level_DigGame
+51361:[CHS] - (test)7.2挖矿活动关卡1
+51362:[CHS] - (test)7.2挖矿活动关卡2
+51363:[CHS] - (test)7.2挖矿活动关卡3
+51364:[CHS] - (test)7.2挖矿活动关卡4
+51365:[CHS] - (test)7.2挖矿活动关卡5
+51366:[CHS] - (test)7.2飞行射击_赛道1_璃月
+51367:[CHS] - (test)7.2飞行射击_赛道2_纳塔
+51368:[CHS] - (test)7.2飞行射击_赛道3_至冬
+51369:[CHS] - (test)7.2飞行射击_赛道4_稻妻
+51373:[CHS] - (test)7.2援救_关卡1_蒙德
+51374:[CHS] - (test)7.2援救_关卡2_须弥
+51375:[CHS] - (test)7.2援救_关卡3_纳塔
+51376:[CHS] - (test)7.2援救_关卡4_至冬
 79999:[CHS] - (test)卡牌观战场景
 90001:UGC_LiHui_01
 90002:UGC消耗功率測試地城

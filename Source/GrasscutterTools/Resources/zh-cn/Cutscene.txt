@@ -218,6 +218,10 @@
 218:Cs_OfferingSnez_Gun_Start_Convert
 219:Cs_OfferingSnez_Ballet_Start_Convert
 220:Cs_Scene_Goddess_Chord_Ice
+221:Cs_Scene_OasisStart_Convert
+222:Cs_Scene_Oasis_Convert
+223:Cs_Scene_AdministrationStart_Convert
+224:Cs_Scene_Administration_Convert
 9999:[黑屏文本]"此处有动画"
 2101401:望舒客栈远景
 133104440:未知(不明平地)
@@ -453,6 +457,9 @@
 251302001:Cs_Scene_TPS_Mercenaries_03_Convert
 251303001:Cs_Scene_TPS_Mercenaries_04_Convert
 251304001:Cs_Scene_TPS_Mercenaries_05_Convert
+251349002:Cs_Scene_TPS_Mercenaries_06_Convert
+251350001:Cs_Scene_TPS_Mercenaries_07_Convert
+251351021:Cs_Scene_TPS_Mercenaries_08_Convert
 533401:Cs_Activity_TpsDefense_01_Convert
 533402:Cs_Activity_TpsDefense_02_Convert
 533403:Cs_Activity_TpsDefense_03_Convert
@@ -462,3 +469,10 @@
 533302:Cs_Activity_AdvStatue_02_Convert
 533303:Cs_Activity_AdvStatue_03_Convert
 533304:Cs_Activity_AdvStatue_04_Convert
+535201:Cs_Activity_DigGame_01_Convert
+535202:Cs_Activity_DigGame_02_Convert
+535301:Cs_Activity_SaveTeyvatRescue_01_Convert
+535302:Cs_Activity_SaveTeyvatRescue_02_Convert
+535303:Cs_Activity_SaveTeyvatRescue_03_Convert
+535304:Cs_Activity_SaveTeyvatRescue_04_Convert
+133723044:Cs_Snezhnaya_ThrudCryoUlt_Convert

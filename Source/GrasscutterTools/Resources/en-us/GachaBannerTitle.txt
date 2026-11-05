@@ -78,9 +78,11 @@ A0248:To the Looking-Glass\nthe Mademoiselle Said
 A0249:Swan's Shadow in Silken Ice
 A0250:When Warm Winds Cavort
 A0251:Surging Ballad
+A0252:Myriad Patterns Unfold
 B001:Ode to the Dawn Breeze
 B002:Remembrance of Jade and Stone
 B003:Thunder Rends the Plains on High
 B004:Roving Chalice of Dewgrass
 B005:Dewlit Tranquility
+B006:Names Forged Beneath Blazing Skies
 C001:Heavenlit Prophecy

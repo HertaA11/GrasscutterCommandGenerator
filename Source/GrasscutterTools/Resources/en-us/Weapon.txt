@@ -207,6 +207,7 @@
 14522:Nocturne's Curtain Call
 14523:Angelos' Heptades
 14524:Hymn of the Maelstrom
+14525:Starsealed Edict
 15101:Hunter's Bow
 15201:Seasoned Hunter's Bow
 15301:Raven Bow
