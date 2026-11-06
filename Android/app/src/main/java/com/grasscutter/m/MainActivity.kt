@@ -104,11 +104,11 @@ private data class UpdateAnnouncement(
 )
 
 private val currentAnnouncement = UpdateAnnouncement(
-    id = "7.1.0",
-    version = "更新为 7.1 版本",
+    id = "7.2.0",
+    version = "更新为 7.2 版本",
     title = "更新公告",
-    body = "本次更新为 7.1 版本，更新了角色、圣遗物、武器等游戏资源，并改进了 Android 指令生成器。",
-    explanation = "本次资源更新包含 7.1 版本的角色、圣遗物、武器、物品、怪物、场景和活动数据。",
+    body = "本次更新为 7.2 版本，更新了角色、圣遗物、武器等游戏资源，并改进了 Android 指令生成器。",
+    explanation = "本次资源更新包含 7.2 版本的角色、圣遗物、武器、物品、怪物、场景和活动数据。",
     quarkUrl = "",
     forceUpdate = false,
 )
@@ -340,7 +340,7 @@ private fun CommandGeneratorApp() {
     Scaffold(
         topBar = {
             CenterAlignedTopAppBar(
-                title = { Text("7.1指令生成器") },
+                title = { Text("7.2指令生成器") },
                 colors = TopAppBarDefaults.centerAlignedTopAppBarColors(containerColor = MaterialTheme.colorScheme.surfaceVariant),
             )
         },
@@ -561,7 +561,7 @@ private fun AboutPanel(context: Context) {
     if (expanded) {
         Card(modifier = Modifier.fillMaxWidth()) {
             Column(modifier = Modifier.padding(12.dp), verticalArrangement = Arrangement.spacedBy(4.dp)) {
-                Text("7.1 指令生成器", style = MaterialTheme.typography.titleMedium)
+                Text("7.2 指令生成器", style = MaterialTheme.typography.titleMedium)
                 Text("版本 ${BuildConfig.VERSION_NAME} · 包名 com.grasscutter.m", style = MaterialTheme.typography.bodySmall)
                 Text("基于 GrasscutterTools 的 Android 适配，遵循 AGPL-3.0-or-later。", style = MaterialTheme.typography.bodySmall)
                 TextButton(onClick = {

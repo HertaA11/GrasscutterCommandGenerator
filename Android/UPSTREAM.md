@@ -2,7 +2,7 @@
 
 ## 用户使用
 
-应用名称为“7.1指令生成器”，包名为 `com.grasscutter.m`。首次使用远程执行时，在“远程执行”中填写 OpenCommand 地址：
+应用名称为“7.2指令生成器”，包名为 `com.grasscutter.m`。首次使用远程执行时，在“远程执行”中填写 OpenCommand 地址：
 
 - 同一台 Android 设备上的服务：`http://127.0.0.1:8091`
 - 电脑局域网服务：`http://192.168.1.100:8091`（替换为电脑实际 IP）
@@ -16,7 +16,7 @@
 
 同步原仓库资源后，Android 构建会自动执行 `syncUpstreamResources`，一般不需要手动复制资源，也不要覆盖 Android 专用代码。发布新版本时：
 
-1. 将 `Android/app/build.gradle.kts` 中的 `versionCode` 增加一个整数，并将 `versionName` 改为目标版本，例如 `7.1.0`。
+1. 将 `Android/app/build.gradle.kts` 中的 `versionCode` 增加一个整数，并将 `versionName` 改为目标版本，例如 `7.2.0`。
 2. 保持 `applicationId` 和 `namespace` 为 `com.grasscutter.m`，否则系统会把它识别成另一个应用，无法覆盖安装。
 3. 使用与旧版相同的正式 Android 签名密钥构建 release APK。没有相同签名时，用户需要先卸载旧版，卸载会删除应用设置和命令历史。
 4. 在 GitHub Actions 的 Android 工作流中构建 `assembleRelease`，从成功运行的 Artifacts 下载 APK，并在真机上验证安装、资源搜索和远程连接。

@@ -17,8 +17,8 @@ android {
         applicationId = "com.grasscutter.m"
         minSdk = 26
         targetSdk = 36
-        versionCode = 2
-        versionName = "7.1.0"
+        versionCode = 3
+        versionName = "7.2.0"
     }
 
     val releaseKeystore = System.getenv("ANDROID_KEYSTORE_FILE")
